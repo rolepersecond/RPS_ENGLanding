@@ -1,0 +1,81 @@
+h1 {
+    font-family: 'Potta One', cursive;
+    color: #0f0704;
+    text-align: center;
+}
+
+
+.box_abaout {
+    display: flex;
+    flex-direction: column;
+    background-color: #E96D1A;
+}
+
+.img_abaout {
+    width: 100%;
+}
+
+.text_box_about {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 50px 20px 50px;
+    justify-content: center;
+}
+
+.box_links {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0 0 20px 0;
+    background-color: #0f0704;
+}
+
+.card {
+    width: 100%;
+    background-color: #0f0704;
+    padding: 20px 0 20px 0;
+}
+
+.box_puv {
+    display: flex;
+    flex-direction: column;
+    background-color: #000000;
+    align-items: center;
+}
+
+.img_puv {
+    width: 100%;
+}
+
+.box_patreon {
+    display: flex;
+    flex-direction: column;
+    background-color: #0f0704;
+    align-items: center;
+}
+
+.box_exhume {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #efefef;
+}
+
+.box_koboldcon {
+    display: flex;
+    flex-direction: column;
+    background-image: url(/img/bg_KC.jpg);
+    background-position: center;
+    align-items: center;
+}
+
+.box_profile {
+    display: flex;
+    flex-direction: column;
+    background-image: url(/img/profile_bg.jpg);
+    background-position: center;
+}
+
+.img_profile {
+    width: 100%;
+}
