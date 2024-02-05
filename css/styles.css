@@ -52,6 +52,13 @@ font-family: 'Staatliches', cursive;
     justify-content: center;
 }
 
+.box_titulo {
+    display: flex;
+    padding: 15px;
+    background-color: #E96D1A;
+    justify-content: center;
+}
+
 .img_portada {
     width: 100%;
 }
@@ -128,7 +135,7 @@ font-family: 'Staatliches', cursive;
 }
 
 .img_puv {
-    width: 40%;
+    width: 37%;
 }
 
 .text_box_puv {
@@ -160,6 +167,11 @@ font-family: 'Staatliches', cursive;
 
 .h1_profile {
     color: #E96D1A;
+}
+.h1_titulos {
+    font-family: 'Potta One', cursive;
+    color: #0f0704;
+    font-size: 3rem;
 }
 
 .p_alt {
